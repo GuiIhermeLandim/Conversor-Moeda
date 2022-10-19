@@ -23,6 +23,8 @@ Nesse projeto, voltei meus estudos em reproduzir um Conversor de Moedas simples,
 
 Um conversor de Moedas simples, interativo, e de fácil uso.
 
+![Conversor](https://user-images.githubusercontent.com/79064185/196569559-9bcc99a5-82f3-4a30-afbe-d5414b841d0c.png)
+
 ## ✔️ Tecnologias utilizadas
 
 O Projeto utilizou exclusivamente a linguagem Java em seu Desenvolvimento.
