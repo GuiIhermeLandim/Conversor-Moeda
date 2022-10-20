@@ -23,7 +23,8 @@ Nesse projeto, voltei meus estudos em reproduzir um Conversor de Moedas simples,
 
 Um conversor de Moedas simples, interativo, e de fácil uso.
 
-![Conversor](https://user-images.githubusercontent.com/79064185/196569559-9bcc99a5-82f3-4a30-afbe-d5414b841d0c.png)
+![Conversor](https://user-images.githubusercontent.com/79064185/196829178-93461a1b-f06b-4e98-a67f-a72d557f7b2a.png)
+![Conversor2](https://user-images.githubusercontent.com/79064185/196829179-54a120aa-5cf0-42a4-86f6-c88ca6f942bd.png)
 
 ## ✔️ Tecnologias utilizadas
 
